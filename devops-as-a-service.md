@@ -39,5 +39,7 @@
   - HA/DR
 ### The view from a developer
 - Easy Integrations
-  - GitHub Enterprise ( 
+  - GitHub Enterprise
+  - TravisCI
+  - CodeClimate
 ### The view from operations
