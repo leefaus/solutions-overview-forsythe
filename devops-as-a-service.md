@@ -36,10 +36,12 @@
   - best of breed - "negative perspective?"
   - onboarding, offboarding users
   - monitoring, logging
-  - HA/DR
+  - HA/DR  
+
 ### The view from a developer
 - Easy Integrations
   - GitHub Enterprise
   - TravisCI
-  - CodeClimate
+  - CodeClimate  
+
 ### The view from operations
